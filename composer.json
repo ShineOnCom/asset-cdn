@@ -1,5 +1,5 @@
 {
-    "name": "shineoncom/asset-cdn",
+    "name": "arubacao/asset-cdn",
     "description": "Serve Laravel Assets from a Content Delivery Network (CDN)",
     "keywords": [
         "Laravel",
@@ -7,7 +7,7 @@
         "Content Delivery Network",
         "AWS Cloudfront"
     ],
-    "homepage": "https://github.com/ShineOnCom/asset-cdn",
+    "homepage": "https://github.com/arubacao/asset-cdn",
     "license": "MIT",
     "authors": [
         {
